@@ -4,7 +4,7 @@ document.querySelector('buscar').addEventListener('click', ()=>{
 
     if(!CEP){
         alert("Digite um CEP")
-    return
+        return
     }
-    
+
 })
